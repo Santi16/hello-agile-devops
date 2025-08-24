@@ -3,4 +3,4 @@ def greet(name: str) -> str:
 
 class MyClass:
     def __init__(self):
-        self
+        pass
